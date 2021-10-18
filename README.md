@@ -7,7 +7,7 @@
 
 # Introduction
 
-This project includes the application of algorithms learned from the book "**Bioinformatics Algorithms An Active Learning Approach**" written by *Phillip Compeau* & *Pavel Pevzner*, and their solutions by coding the questions in the book. 
+This project includes the implementation of algorithms learned from the book "**Bioinformatics Algorithms An Active Learning Approach**" written by *Phillip Compeau* & *Pavel Pevzner*, and their solutions by coding the questions in the book. 
 
 **You can oppose this project with applications in different languages.**
 
