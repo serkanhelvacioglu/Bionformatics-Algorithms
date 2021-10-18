@@ -1,3 +1,9 @@
+//Reverse Complement Problem: Find the reverse complement of a DNA string.
+
+//    Input: A DNA string Pattern.
+//    Output: The reverse complement of Pattern.
+
+
 #include <iostream>
 #include <vector>
 #include <string>
